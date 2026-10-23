@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-|  [月光海岸](https://www.manction.com)   | [原创影像](https://www.manction.com/photos)  | [友情链接](https://www.manction.com/s/links) |
+|  [月光海岸](https://www.manction.com)   | [作品集](https://www.manction.com/works)  | [手记](https://www.manction.com/journal) |
 |  ----  | ----  | --- |
 
 ### 🌈 My Github State
